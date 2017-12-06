@@ -1,0 +1,28 @@
+
+
+C:/Users/demusjc/Downloads/vga_test/vga_test/vga_pll.vhd
+
+Nov 30 11PM:51:01>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/demusjc/Downloads/vga_test/vga_test/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Users/demusjc/Downloads/vga_test/vga_test/vga_pll.vhd
+
+Nov 30 11PM:52:39>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/demusjc/Downloads/vga_test/vga_test/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Users/demusjc/Downloads/vga_test/vga_test/vga_pll.vhd
+
+Nov 30 11PM:54:38>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/demusjc/Downloads/vga_test/vga_test/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
